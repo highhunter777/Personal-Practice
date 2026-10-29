@@ -1,0 +1,14 @@
+# 编译产物
+*.o
+*.d
+a.out
+hello
+core
+core.*
+
+# sanitizer / valgrind
+*.vgcore
+
+# 系统杂物
+.DS_Store
+Thumbs.db
